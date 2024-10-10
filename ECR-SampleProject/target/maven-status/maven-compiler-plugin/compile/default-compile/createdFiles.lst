@@ -1,0 +1,6 @@
+com\ecr\sampe\model\EcrModel.class
+com\ecr\sampe\model\EcrDTO.class
+com\ecr\sampe\model\RxValue.class
+com\ecr\sampe\rest\EcrRestController.class
+com\ecr\sampe\EcrSampleProjectApplication.class
+com\ecr\sampe\model\TxValue.class

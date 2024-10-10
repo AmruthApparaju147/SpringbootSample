@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ecr.sampe.EcrSampleProjectApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.184 s - in com.ecr.sampe.EcrSampleProjectApplicationTests
